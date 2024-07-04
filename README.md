@@ -36,6 +36,3 @@ Kesimpulan:
 Kesimpulan:
 - City Hotel memiliki rasio pembatalan yang cukup tinggi ketika durasi menginap yang sangat lama yaitu lebih dari 2 minggu, namun memiliki rasio pembatalan yang serupa untuk durasi penginapan 3 hari sampai 2 minggu. Tamu yang memesan untuk durasi singkat lebih konsisten dengan rencana penginapan mereka.
 - Resort Hotel memiliki rasio pembatalan yang cukup serupa untuk setiap durasi penginapan, tetapi memiliki rasio pembatalan yang rendah untuk durasi penginapan kurang dari 3 hari. Namun rasio pembatalan untuk Resort Hotel cenderung lebih rendah dari pada City Hotel yang mungkin menunjukkan bahwa tamu Resort Hotel lebih konsisten dengan rencana penginapan mereka secara keseluruhan tanpa terlalu melihat durasi penginapan.
-- 
-
-
